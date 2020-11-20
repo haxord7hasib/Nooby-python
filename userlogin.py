@@ -1,5 +1,4 @@
-x=4
-z=4 
+
 name="Hasib"
 password="awse2313"
 print("Username:")
